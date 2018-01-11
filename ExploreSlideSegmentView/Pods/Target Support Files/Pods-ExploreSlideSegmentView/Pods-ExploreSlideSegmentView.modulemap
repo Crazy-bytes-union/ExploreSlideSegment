@@ -1,0 +1,6 @@
+framework module Pods_ExploreSlideSegmentView {
+  umbrella header "Pods-ExploreSlideSegmentView-umbrella.h"
+
+  export *
+  module * { export * }
+}
